@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.edu/categories/</loc>
+    <loc>https://zzachw.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.edu/</loc>
+    <loc>https://zzachw.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.edu/tags/</loc>
+    <loc>https://zzachw.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
