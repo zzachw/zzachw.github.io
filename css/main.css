@@ -161,7 +161,7 @@ ul.flat li {
 }
 
 ul {
-  list-style: disc inside;
+  list-style: disc outside;
 }
 
 .introduction ul li {
@@ -334,7 +334,7 @@ ul {
 
 .collaborators {
   font-size: 15px;
-  margin-left: .9em;
+  margin-left: 0em;
   margin-top: .1em;
   smartypants = false;
 }
@@ -351,7 +351,7 @@ ul {
 
 
 .advisor {
-  margin: 0em .9em 0em;
+  margin: 0em 0em 0em;
 }
 
 .publications {
@@ -371,7 +371,7 @@ ul {
 .code_blog {
     font-family: "Ubuntu Mono";
     font-size: 14px;
-    margin: 0em .9em 0em;
+    margin: 0em 0em 0em;
 }
 
 .blog_cv {
@@ -381,7 +381,7 @@ ul {
 }
 
 .project_description {
- margin: 0em .9em 0em;
+ margin: 0em 0em 0em;
 }
 
 .section .section-header {
