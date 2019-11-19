@@ -267,11 +267,22 @@ ul {
   font-weight: bolder;
 }
 
-.header .site-affilation .position {
+.header .site-affilation .name {
   /* color: #a00; */
   /* font-size: 14px; */
   /* display: block; */
   font-family: Ubuntu;
+    /* font-family: "Ubuntu Mono"; */
+  /* font-weight: bolder; */
+}
+
+.header .site-affilation .position {
+  /* color: #a00; */
+  /* font-size: 14px; */
+  /* display: block; */
+  /* font-family: Ubuntu; */
+  /* font-family: Ubuntu Condensed; */
+  font-family: "Ubuntu Mono";
   /* font-weight: bolder; */
 }
 
