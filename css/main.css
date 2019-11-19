@@ -282,7 +282,7 @@ ul {
   /* display: block; */
   /* font-family: Ubuntu; */
   /* font-family: Ubuntu Condensed; */
-  font-family: "Ubuntu Mono";
+  font-family: "Ubuntu";
   /* font-weight: bolder; */
 }
 
@@ -345,11 +345,17 @@ ul {
 }
 
 .project {
-  margin: .5em -.5em 0em;
+  margin: .5em 0em 0em;
+  font-weight: bolder;
+}
+
+
+.advisor {
+  margin: 0em .9em 0em;
 }
 
 .publications {
-  margin-left: -.5em;
+  margin-left: 0em;
 }
 
 .news {
@@ -375,7 +381,7 @@ ul {
 }
 
 .project_description {
- margin: .5em .9em 0em;
+ margin: 0em .9em 0em;
 }
 
 .section .section-header {
