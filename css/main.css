@@ -347,6 +347,7 @@ ul {
 .project {
   margin: .5em 0em 0em;
   font-weight: bolder;
+  display: inline-block;
 }
 
 
@@ -372,6 +373,7 @@ ul {
     font-family: "Ubuntu Mono";
     font-size: 14px;
     margin: 0em 0em 0em;
+    display: inline-block;
 }
 
 .blog_cv {
@@ -381,7 +383,16 @@ ul {
 }
 
 .project_description {
- margin: 0em 0em 0em;
+  margin: 0em 0em 0em;
+}
+
+.project_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0em;
+  max-height: 10em;
+  width: auto;
 }
 
 .section .section-header {
