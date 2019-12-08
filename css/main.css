@@ -391,8 +391,8 @@ ul {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0em;
-  max-height: 10em;
-  width: auto;
+  max-width: 90%;
+  height: auto;
 }
 
 .section .section-header {
