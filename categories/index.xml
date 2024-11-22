@@ -4,11 +4,8 @@
     <title>Categories on Zhenbang Wu</title>
     <link>https://zzachw.github.io/categories/</link>
     <description>Recent content in Categories on Zhenbang Wu</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://zzachw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://zzachw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
