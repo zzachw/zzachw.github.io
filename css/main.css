@@ -207,15 +207,6 @@ ul {
   /* float: left; */
 }
 
-.header .name_image {
-  display: inline-block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: -1em;
-  max-width: 12%;
-  height: auto;
-}
-
 .header h1,
 .header h2 {
   /* added by zw12 */
